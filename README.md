@@ -6,6 +6,7 @@ To write C# program to find the eligibility for admission to an engineering cour
 ## Algorithnm:
 ### Step 1:
 Create a new Class named admission.
+
 ### Step 2:
 Create variable of respective data types to store marks & name.
 ### Step 3:
@@ -75,7 +76,9 @@ namespace Students
 
 
 ## Output:
-
+![r1](https://user-images.githubusercontent.com/94525786/225648681-7feea749-2e5a-437e-8ff7-9534eeb24137.png)
+![r2](https://user-images.githubusercontent.com/94525786/225648715-bbcc223d-5471-436f-b4f7-115aa2a5ffcd.png)
 
 
 ## Result:
+Thus, a C# program to check the eligibility of a student on engineering admission has been executed successfully.
