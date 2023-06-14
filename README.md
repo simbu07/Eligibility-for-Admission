@@ -1,5 +1,5 @@
 ## Ex-1 Eligibility-for-Admission
-### Date :21/3/2023
+
 ### Aim:
 To write C# program to find the eligibility for admission to an engineering course.
 
