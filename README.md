@@ -1,9 +1,9 @@
-# Eligibility-for-Admission
-
-## Aim:
+## Ex-1 Eligibility-for-Admission
+### Date :21/3/2023
+### Aim:
 To write C# program to find the eligibility for admission to an engineering course.
 
-## Algorithnm:
+### Algorithnm:
 ### Step 1:
 Create a new Class named admission.
 
@@ -22,7 +22,7 @@ Using Nested if check whether the person is eligible or not for admission based 
 Print the status for admission.
 ### Step 7:
 End of the Program.
-## Program:
+### Program:
 ```
 Developed by: Silambarsan K
 Reg No: 212221230101
@@ -75,10 +75,10 @@ namespace Students
 ```
 
 
-## Output:
+### Output:
 ![r1](https://user-images.githubusercontent.com/94525786/225648681-7feea749-2e5a-437e-8ff7-9534eeb24137.png)
 ![r2](https://user-images.githubusercontent.com/94525786/225648715-bbcc223d-5471-436f-b4f7-115aa2a5ffcd.png)
 
 
-## Result:
+### Result:
 Thus, a C# program to check the eligibility of a student on engineering admission has been executed successfully.
